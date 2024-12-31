@@ -1,16 +1,15 @@
-# Grasshopper-to-Arduino Communication Project
+# File name
 
 ## Overview
-This project enables seamless communication between Grasshopper and Arduino to control sensors, actuators, and other hardware in real time.
+This project enables *objectives & purposes*
 
 ## Key Features
-- Real-time communication via serial or plugins (Firefly, GHowl).
-- Modular Grasshopper scripts for data processing and visualization.
-- Comprehensive Arduino integration with easy configuration.
+- *software architecture*
+- *optional internet access* 
 
 ## Repository Structure
-- `GrasshopperFiles/`: Grasshopper scripts for controlling Arduino.
-- `ArduinoFiles/`: Arduino sketches, configurations, and libraries.
+- `GrasshopperFiles/`: Grasshopper scripts.
+- `RhinoFiles/`: Robot workcell, and end-effectors.
 - `HardwareIntegration/`: Wiring diagrams, component details, and setup instructions.
 - `Data/`: Input/output data and logs for testing.
 - `Docs/`: Documentation for installation, usage, and troubleshooting.
@@ -20,4 +19,4 @@ For more details, see the [Documentation](./Docs/).
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/GrasshopperArduinoCommunication.git
+   git clone https://github.com/username/template.git
