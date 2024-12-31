@@ -20,3 +20,5 @@ For more details, see the [Documentation](./Docs/).
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/template.git
+2. Replace placeholder files (e.g., `.gitkeep`) with your project files.
+3. Customize the scripts and models to fit your project.
