@@ -1,24 +1,47 @@
-# File name
+# [RepoName]
 
 ## Overview
-This project enables *objectives & purposes*
+This project investigates [XYZ]
+
+<img src="https://github.com/LoyWeiWin/[RepoName]/blob/main/Assets/Thumbnails/Vid_RoboticSketching.gif" alt="Alt Text" width="450">
+
+
+## Project
+- [ProjectName]
+
+## Software Requirement
+- Rhino 7 or latest
+- [Robot plugin](https://github.com/visose/Robots)
 
 ## Key Features
-- *software architecture*
-- *optional internet access* 
+- **Parametric Design Control**: Use Grasshopper to dynamically adjust sketching pattern (bychanging reference image).
+- **Compatibility with Universal Robot**: Seamless integration with UR collaborative robots for industrial applications.
 
 ## Repository Structure
 - `GrasshopperFiles/`: Grasshopper scripts.
 - `RhinoFiles/`: Robot workcell, and end-effectors.
-- `HardwareIntegration/`: Wiring diagrams, component details, and setup instructions.
-- `Data/`: Input/output data and logs for testing.
-- `Docs/`: Documentation for installation, usage, and troubleshooting.
+- `Assets/`: Images, thumbnails and videos
+- `Docs/`: Documentation for installation, and troubleshooting.
 
-For more details, see the [Documentation](./Docs/).
+> [!TIP]
+> For more setup instrucions and usage, see the [Wiki](https://github.com/LoyWeiWin/TemplateRepo/wiki).
 
-## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/template.git
-2. Replace placeholder files (e.g., `.gitkeep`) with your project files.
-3. Customize the scripts and models to fit your project.
+## Contributing
+Contributions to improve this workflow are welcome! Please follow the contributing guidelines in the [contributing guidelines](https://github.com/LoyWeiWin/TemplateRepo/wiki/06_Contributing-Guidelines) in wiki.
+
+## Code of Conduct
+This project follows the Contributor Covenant Code of Conduct. Please read our [Code of Conduct](https://github.com/LoyWeiWin/TemplateRepo/blob/main/CODE_OF_CONDUCT.md) before contributing.
+
+> [!WARNING]  
+> If you are unfamiliar with using [XYZ], please ensure you have supervision from a qualified advisor or professional.
+> The contributor or owner of this repository is not responsible for any physical damage, injury, or harm caused to the immediate environment or individuals due to improper usage of cobots or related tools.
+
+## Acknowledgements
+This project was independently developed as part of my personal initiative and commitment to advancing this field.
+
+## References
+1. [APA 7th Edition]
+
+
+
+
